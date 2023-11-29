@@ -1,2 +1,2 @@
 # Klasifikasi-Gambar
-Klasifikasi gambar rock-paper-scissors
+Proyek Akhir Dicoding - Klasifikasi gambar rock-paper-scissors 
